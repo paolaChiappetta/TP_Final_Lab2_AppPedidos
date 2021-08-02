@@ -1,0 +1,480 @@
+# depslib dependency file v1.0
+1605739667 source:c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define_dulc - recargado\cliente.c
+	"cliente.h"
+
+1605818218 c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define_dulc - recargado\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<Windows.h>
+	"colores.h"
+	<string.h>
+
+1605398774 c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define_dulc - recargado\colores.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<Windows.h>
+
+1605146745 source:c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define_dulc - recargado\colores.c
+	"colores.h"
+
+1605833052 source:c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define_dulc - recargado\listacliente.c
+	"listaCliente.h"
+
+1605827848 c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define_dulc - recargado\listacliente.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<Windows.h>
+	"cliente.h"
+	"colores.h"
+
+1605831957 source:c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define_dulc - recargado\producto.c
+	"producto.h"
+
+1605573947 c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define_dulc - recargado\producto.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<Windows.h>
+
+1605824766 source:c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define_dulc - recargado\arbol.c
+	"arbol.h"
+
+1605752008 c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define_dulc - recargado\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<Windows.h>
+	"producto.h"
+
+1605903828 source:c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define_dulc - recargado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<Windows.h>
+	"cliente.h"
+	"colores.h"
+	"listaCliente.h"
+	"arbol.h"
+	"producto.h"
+	"listaProductos.h"
+	"listaCelda.h"
+
+1605724689 c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define_dulc - recargado\listaproductos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	"listaCelda.h"
+
+1605834550 source:c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define_dulc - recargado\listaproductos.c
+	"listaProductos.h"
+
+1605830542 source:c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define_dulc - recargado\listacelda.c
+	"listaCelda.h"
+
+1605827848 c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define_dulc - recargado\listacelda.h
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+	"colores.h"
+	"cliente.h"
+	"producto.h"
+
+1605824766 source:c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define_dulc - recargado (6)\#define_dulc - recargado\arbol.c
+	"arbol.h"
+
+1605752008 c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define_dulc - recargado (6)\#define_dulc - recargado\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<Windows.h>
+	"producto.h"
+
+1605573947 c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define_dulc - recargado (6)\#define_dulc - recargado\producto.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<Windows.h>
+
+1605739667 source:c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define_dulc - recargado (6)\#define_dulc - recargado\cliente.c
+	"cliente.h"
+
+1605818218 c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define_dulc - recargado (6)\#define_dulc - recargado\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<Windows.h>
+	"colores.h"
+	<string.h>
+
+1605398774 c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define_dulc - recargado (6)\#define_dulc - recargado\colores.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<Windows.h>
+
+1605146745 source:c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define_dulc - recargado (6)\#define_dulc - recargado\colores.c
+	"colores.h"
+
+1605986637 source:c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define_dulc - recargado (6)\#define_dulc - recargado\listacelda.c
+	"listaCelda.h"
+
+1605966817 c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define_dulc - recargado (6)\#define_dulc - recargado\listacelda.h
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+	"colores.h"
+	"cliente.h"
+	"producto.h"
+
+1605986637 source:c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define_dulc - recargado (6)\#define_dulc - recargado\listacliente.c
+	"listaCliente.h"
+
+1605986637 c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define_dulc - recargado (6)\#define_dulc - recargado\listacliente.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<Windows.h>
+	"cliente.h"
+	"colores.h"
+
+1605986681 source:c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define_dulc - recargado (6)\#define_dulc - recargado\listaproductos.c
+	"listaProductos.h"
+
+1605986637 c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define_dulc - recargado (6)\#define_dulc - recargado\listaproductos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	"listaCelda.h"
+
+1605981426 source:c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define_dulc - recargado (6)\#define_dulc - recargado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<Windows.h>
+	"cliente.h"
+	"colores.h"
+	"listaCliente.h"
+	"arbol.h"
+	"producto.h"
+	"listaProductos.h"
+	"listaCelda.h"
+	"filaPedido.h"
+
+1605957409 source:c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define_dulc - recargado (6)\#define_dulc - recargado\producto.c
+	"producto.h"
+
+1605972022 c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define_dulc - recargado (6)\#define_dulc - recargado\filapedido.h
+	<stdio.h>
+	<stdlib.h>
+	"listaProductos.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<Windows.h>
+
+1605956750 source:c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define_dulc - recargado (6)\#define_dulc - recargado\filapedido.c
+	"filaPedido.h"
+
+1606001260 source:c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define_dulc - recargado\#define_dulc - recargado\arbol.c
+	"arbol.h"
+
+1606001095 c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define_dulc - recargado\#define_dulc - recargado\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<Windows.h>
+	"producto.h"
+
+1605996569 c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define_dulc - recargado\#define_dulc - recargado\producto.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<Windows.h>
+	"colores.h"
+
+1606052049 source:c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define_dulc - recargado\#define_dulc - recargado\cliente.c
+	"cliente.h"
+
+1605818218 c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define_dulc - recargado\#define_dulc - recargado\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<Windows.h>
+	"colores.h"
+	<string.h>
+
+1605398774 c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define_dulc - recargado\#define_dulc - recargado\colores.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<Windows.h>
+
+1605146745 source:c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define_dulc - recargado\#define_dulc - recargado\colores.c
+	"colores.h"
+
+1605956750 source:c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define_dulc - recargado\#define_dulc - recargado\filapedido.c
+	"filaPedido.h"
+
+1606004734 c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define_dulc - recargado\#define_dulc - recargado\filapedido.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<Windows.h>
+	"listaProductos.h"
+
+1605986637 c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define_dulc - recargado\#define_dulc - recargado\listaproductos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	"listaCelda.h"
+
+1606008849 c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define_dulc - recargado\#define_dulc - recargado\listacelda.h
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+	"colores.h"
+	"cliente.h"
+	"producto.h"
+
+1606008849 source:c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define_dulc - recargado\#define_dulc - recargado\listacelda.c
+	"listaCelda.h"
+
+1606071350 source:c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define_dulc - recargado\#define_dulc - recargado\listacliente.c
+	"listaCliente.h"
+
+1606008966 c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define_dulc - recargado\#define_dulc - recargado\listacliente.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<Windows.h>
+	"cliente.h"
+	"colores.h"
+
+1606081951 source:c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define_dulc - recargado\#define_dulc - recargado\listaproductos.c
+	"listaProductos.h"
+
+1606000043 source:c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define_dulc - recargado\#define_dulc - recargado\producto.c
+	"producto.h"
+
+1606161142 source:c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define_dulc - recargado\#define_dulc - recargado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<Windows.h>
+	"cliente.h"
+	"colores.h"
+	"listaCliente.h"
+	"arbol.h"
+	"producto.h"
+	"listaProductos.h"
+	"listaCelda.h"
+	"filaPedido.h"
+	"pila.h"
+	"pilaProducto.h"
+
+1606081951 c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define_dulc - recargado\#define_dulc - recargado\pila.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<Windows.h>
+	"listaCliente.h"
+
+1606079893 source:c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define_dulc - recargado\#define_dulc - recargado\pila.c
+	"pila.h"
+
+1606082567 source:c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define_dulc - recargado\#define_dulc - recargado\pilaproducto.c
+	"pilaProducto.h"
+
+1606082567 c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define_dulc - recargado\#define_dulc - recargado\pilaproducto.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<Windows.h>
+	"listaProductos.h"
+
+1606185170 source:c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define dulce - recargado - carpeta completa\#define_dulc - recargado\arbol.c
+	"arbol.h"
+
+1606001095 c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define dulce - recargado - carpeta completa\#define_dulc - recargado\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<Windows.h>
+	"producto.h"
+
+1605996569 c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define dulce - recargado - carpeta completa\#define_dulc - recargado\producto.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<Windows.h>
+	"colores.h"
+
+1605398774 c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define dulce - recargado - carpeta completa\#define_dulc - recargado\colores.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<Windows.h>
+
+1606052049 source:c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define dulce - recargado - carpeta completa\#define_dulc - recargado\cliente.c
+	"cliente.h"
+
+1605818218 c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define dulce - recargado - carpeta completa\#define_dulc - recargado\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<Windows.h>
+	"colores.h"
+	<string.h>
+
+1605146745 source:c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define dulce - recargado - carpeta completa\#define_dulc - recargado\colores.c
+	"colores.h"
+
+1605956750 source:c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define dulce - recargado - carpeta completa\#define_dulc - recargado\filapedido.c
+	"filaPedido.h"
+
+1606004734 c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define dulce - recargado - carpeta completa\#define_dulc - recargado\filapedido.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<Windows.h>
+	"listaProductos.h"
+
+1605986637 c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define dulce - recargado - carpeta completa\#define_dulc - recargado\listaproductos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	"listaCelda.h"
+
+1606008849 c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define dulce - recargado - carpeta completa\#define_dulc - recargado\listacelda.h
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+	"colores.h"
+	"cliente.h"
+	"producto.h"
+
+1606008849 source:c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define dulce - recargado - carpeta completa\#define_dulc - recargado\listacelda.c
+	"listaCelda.h"
+
+1606071350 source:c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define dulce - recargado - carpeta completa\#define_dulc - recargado\listacliente.c
+	"listaCliente.h"
+
+1606008966 c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define dulce - recargado - carpeta completa\#define_dulc - recargado\listacliente.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<Windows.h>
+	"cliente.h"
+	"colores.h"
+
+1606081951 source:c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define dulce - recargado - carpeta completa\#define_dulc - recargado\listaproductos.c
+	"listaProductos.h"
+
+1606079893 source:c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define dulce - recargado - carpeta completa\#define_dulc - recargado\pila.c
+	"pila.h"
+
+1606081951 c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define dulce - recargado - carpeta completa\#define_dulc - recargado\pila.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<Windows.h>
+	"listaCliente.h"
+
+1606082567 source:c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define dulce - recargado - carpeta completa\#define_dulc - recargado\pilaproducto.c
+	"pilaProducto.h"
+
+1606082567 c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define dulce - recargado - carpeta completa\#define_dulc - recargado\pilaproducto.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<Windows.h>
+	"listaProductos.h"
+
+1606000043 source:c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define dulce - recargado - carpeta completa\#define_dulc - recargado\producto.c
+	"producto.h"
+
+1606188978 source:c:\users\emiliano\desktop\programacion\2do cuatrimestre\programacion y lab ii\tp en codeblocks\tp final lab ii\#define dulce - recargado - carpeta completa\#define_dulc - recargado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<Windows.h>
+	"cliente.h"
+	"colores.h"
+	"listaCliente.h"
+	"arbol.h"
+	"producto.h"
+	"listaProductos.h"
+	"listaCelda.h"
+	"filaPedido.h"
+	"pila.h"
+	"pilaProducto.h"
+
